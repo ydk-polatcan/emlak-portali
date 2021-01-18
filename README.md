@@ -1,2 +1,2 @@
 # emlak-portali
-İnternet Programcılığı Ödevi
+İnternet Programcılığı Ödevi1
