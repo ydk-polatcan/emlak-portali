@@ -1,2 +1,3 @@
 # emlak-portali
-İnternet Programcılığı Ödevi1
+İnternet Programcılığı Ödevi
+Branchs Kısmından "Master" bölümüne geçiniz.
